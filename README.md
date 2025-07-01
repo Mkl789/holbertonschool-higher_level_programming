@@ -1,1 +1,1 @@
-# I still do not know what to type.
+# Task 0: Hello, print
