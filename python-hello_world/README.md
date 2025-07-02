@@ -3,3 +3,4 @@
 # 4-print_float.py -> Task 2: Print float
 # 5-print_string.py -> Task 3: Print string
 # 6-concat.py -> Task 4: Play with strings
+# 7-edges.py -> Task 5: Copy - Cut - Paste
