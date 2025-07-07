@@ -4,3 +4,4 @@
 # 3-print_alphabt.py -> Task 3: When I was having that alphabet soup, I never thought that it would pay off
 # 4-print_hexa.py -> Task 4: Hexadecimal printing
 # 5-print_comb2.py -> Task 5: 00..99
+# 6-print_comb3.py -> Task 6: Inventing is a combination of brains and materials. The more brains you use, the less material you need
