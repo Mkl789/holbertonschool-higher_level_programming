@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 from calculator_1 import add, sub, mul, div
+if __name__ == "__name__":
 a = 10
 b = 5
 print("{} + {} = {}".format(a, b, add(a, b)))
