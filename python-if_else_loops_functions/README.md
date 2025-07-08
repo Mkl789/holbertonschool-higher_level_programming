@@ -5,3 +5,9 @@
 # 4-print_hexa.py -> Task 4: Hexadecimal printing
 # 5-print_comb2.py -> Task 5: 00..99
 # 6-print_comb3.py -> Task 6: Inventing is a combination of brains and materials. The more brains you use, the less material you need
+# 7-islower.py -> Task 7: 
+# 8-uppercase.py -> Task 8:
+# 9-print_last_digit.py -> Task 9:
+# 10-add.py -> Task 10:
+# 11-pow.py -> Task 11:
+# 12-fizzbuzz.py -> Task 12: 
