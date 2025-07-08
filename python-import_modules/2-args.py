@@ -7,7 +7,7 @@ if __name__ == "__main__":
         print("0 arguments.")
     elif arg_count == 1:
         print("1 argument:")
-    elif arg_count > 1:
+    else:
         print("{} arguments:".format(arg_count))
         
     for i in range(1, len(sys. argv)):
