@@ -1,14 +1,10 @@
 #!/usr/bin/python3
 import sys 
-total = 0
 if __name__ == "__main__":
     for arg in sys.argv[1:]:
-        total += int(arg)
-    if total == 0:
-        print("{} {}".format(total, "arguments."))
-    elif total == 1:
-        print("{} {}".format(total, "argument:"))
-    elif total > 1:
-        print("{} {}".format(total, "arguments:"))
-    else:
-        pass
+        if arg == 0:
+            print("0 arguments.")
+        elif arg == 1:
+            print("1 argument:", {})
+        elif arg > 1:
+            print("{} arguments: {}".format(arg, arg))
