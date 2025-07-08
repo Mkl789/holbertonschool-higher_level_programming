@@ -5,10 +5,10 @@ if __name__ == "__main__":
     for arg in sys.argv[1:]:
         total += int(arg)
     if total == 0:
-        print("{} {}".format(total, "arguments.", end=arg))
+        print("{} {}".format(total, "arguments."))
     elif total == 1:
-        print("{} {}".format(total, "argument:", end=arg))
+        print("{} {}".format(total, "argument:"))
     elif total > 1:
-        print("{} {}".format(total, "arguments:", end=arg))
+        print("{} {}".format(total, "arguments:"))
     else:
         pass
