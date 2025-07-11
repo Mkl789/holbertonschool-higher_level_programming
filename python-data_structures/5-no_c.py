@@ -4,4 +4,4 @@ def no_c(my_string):
     for char in my_string:
         if char != "c" and char != "C":
             no_c_string += char
-    print(no_c_string)
+    return(no_c_string)
