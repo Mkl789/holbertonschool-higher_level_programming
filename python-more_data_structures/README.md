@@ -3,3 +3,4 @@
 # 3-common_elements.py -> Task 3:
 # 4-only_diff_elements.py
 # 5-number_keys.py ->
+# 6-print_sorted_dictionary.py -> Task 6:
